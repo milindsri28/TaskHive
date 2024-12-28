@@ -85,8 +85,4 @@ We welcome contributions from the community to enhance Trackify. Feel free to su
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
-
-For any questions or inquiries, please reach out to the development team at [rishavchanda0@gmail.com]
-
-Enjoy using Trackify and stay productive!
+Enjoy using TaskHive and stay productive!
